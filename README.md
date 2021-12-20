@@ -21,11 +21,11 @@ Programmer | Learner
 
 [<img align="left" alt="https://rasujon3.github.io/sujon.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+<!-- [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram] -->
 [<img align="left" alt="Ruhul Amin Sujon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ruhul Amin Sujon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="Ruhul Amin Sujon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -87,6 +87,6 @@ Programmer | Learner
 [facebook]: https://facebook.com/rasujon.14
 [twitter]: https://twitter.com/sujon_ra
 [linkedin]: https://www.linkedin.com/in/ras-15/
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[telegram]: https://t.me/TechHelpBangladesh
+<!-- [youtube]: https://youtube.com/TechHelpBangladesh -->
+<!-- [instagram]: https://instagram.com/mahbubdev/ -->
+<!-- [telegram]: https://t.me/TechHelpBangladesh -->
