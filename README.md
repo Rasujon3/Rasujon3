@@ -19,12 +19,12 @@ Programmer | Learner
 
 ### Connect with me:
 
-[<img align="left" target="_blank" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" target="_blank" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://png.pngtree.com/png-clipart/20190619/original/pngtree-vector-web-icon-png-image_3997299.jpg" />][website]
+[<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124012.png" />][facebook]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram] -->
-[<img align="left" alt="Ruhul Amin Sujon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" />][telegram] -->
+[<img align="left" alt="Ruhul Amin Sujon | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />][linkedin]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
