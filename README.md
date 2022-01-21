@@ -19,7 +19,7 @@ Programmer | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" target="_blank" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
