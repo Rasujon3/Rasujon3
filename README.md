@@ -22,7 +22,7 @@ Programmer | Learner
 [<img align="left" target="_blank" alt="https://ruhul-amin-sujon-portfolio.netlify.app/" width="22px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web.png" />][website]
 [<img align="left" alt="Ruhul Amin Sujon | Facebook" width="22px" src="https://w7.pngwing.com/pngs/991/568/png-transparent-facebook-logo-computer-icons-facebook-logo-facebook.png" />][facebook]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LOdq1IcZqSNWavdU8Vjque5aJ6x8HZzEMg&usqp=CAU" />][twitter]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" />][telegram] -->
 [<img align="left" alt="Ruhul Amin Sujon | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" />][linkedin]
 <!-- [<img align="left" alt="Ruhul Amin Sujon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
