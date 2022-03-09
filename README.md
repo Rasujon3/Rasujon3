@@ -13,7 +13,7 @@ Programmer | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **rasujon3@@gmail.com**
+- 📫 How to reach me **rasujon3@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
@@ -43,16 +43,23 @@ Programmer | Learner
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JAVA](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
-![Andriod](https://img.shields.io/badge/-Andriod-05122A?style=flat&logo=android)&nbsp;
+![Android](https://img.shields.io/badge/-Andriod-05122A?style=flat&logo=android)&nbsp;
 ![DART](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br />
+<!-- <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rasujon3.visitor-badge&left_color=blue&right_color=yellow)&nbsp;
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rasujon3.visitor-badge&left_color=blue&right_color=yellow)]
+<br /> -->
+
+## :chart_with_upwards_trend: Current Stats
+
 <br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasujon3&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
 
 [![Sujon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rasujon3&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Rasujon3/github-readme-activity-graph)
 
