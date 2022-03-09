@@ -35,7 +35,7 @@ Programmer | Learner
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -50,7 +50,7 @@ Programmer | Learner
 
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rasujon3.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rasujon3.visitor-badge&left_color=blue&right_color=yellow)&nbsp;
 <br />
 
 [![Sujon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rasujon3&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Rasujon3/github-readme-activity-graph)
