@@ -36,6 +36,7 @@ Programmer | Learner
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -94,7 +95,7 @@ Programmer | Learner
 [website]: https://ruhul-amin-sujon-portfolio.netlify.app/
 [facebook]: https://facebook.com/rasujon.14
 [twitter]: https://twitter.com/sujon_ra
-[linkedin]: https://www.linkedin.com/in/ras-15/
+[linkedin]: https://www.linkedin.com/in/ruhul-amin-sujon-77654a240/
 <!-- [youtube]: https://youtube.com/TechHelpBangladesh -->
 <!-- [instagram]: https://instagram.com/mahbubdev/ -->
 <!-- [telegram]: https://t.me/TechHelpBangladesh -->
