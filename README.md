@@ -1,4 +1,20 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Ruhul Amin Sujon</h1>
+
+<p align="center">
+  <a href="https://leetcode.com/Ruhul_Amin_Sujon/">
+    <img src="https://cp-logo.vercel.app/leetcode/Ruhul_Amin_Sujon" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/16730744/ruhul-amin-sujon">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/Rasujon3?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rasujon3?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Rasujon3">
+    <img src="https://komarev.com/ghpvc/?username=Rasujon3" alt="visitors" />
+  </a>
+</p>
+
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Learner
