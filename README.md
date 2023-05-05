@@ -21,7 +21,7 @@ Programmer | Learner
 
 </h3>
 
-- 🔭 I’m currently working on **MERN Stack & React Native**
+- 🔭 I’m currently working on **SQA & MERN Stack & React Native**
 
 - 🌱 I’m currently learning **Javascript**
 
