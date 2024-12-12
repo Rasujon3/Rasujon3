@@ -21,9 +21,9 @@ Programmer | Learner
 
 </h3>
 
-- 🔭 I’m currently working on **SQA & MERN Stack & React Native**
+- 🔭 I’m currently working on **Laravel & Vue JS**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -47,7 +47,10 @@ Programmer | Learner
 
 ### 🛠 &nbsp;Tech Stack
 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Vue JS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
